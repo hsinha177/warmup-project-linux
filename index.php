@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Capture webcam image with php and jquery - ItSolutionStuff.com</title>
+    <title>Face Capture</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.25/webcam.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" />
@@ -12,7 +12,7 @@
 <body>
   
 <div class="container">
-    <h1 class="text-center">Capture webcam image with php and jquery - ItSolutionStuff.com</h1>
+    <h1 class="text-center">Capture face</h1>
    
     <form method="POST" action="storeImage.php">
         <div class="row">
